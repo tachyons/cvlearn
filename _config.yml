@@ -43,6 +43,7 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
+color_scheme: circuitverse
 exclude:
   - .sass-cache/
   - .jekyll-cache/
